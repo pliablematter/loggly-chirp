@@ -23,10 +23,10 @@ Messages
 -------------
 Messages will arrive in the following format. The first line contains "Loggly Notification, then the subject provided in the URL and timestamp of the last change state. The body will contain all of the parameters sent with the alert.
 
-Subject:
+Subject:  
 Loggly Notification : SEVERE : 1369481700
 
-Body:
+Body:  
 id: abc123
 last_state_change: 1329421700  
 description:  
