@@ -1,2 +1,4 @@
 *.DS_Store
 war/WEB-INF/appengine-web.xml
+*.class
+war/WEB-INF/lib/*
