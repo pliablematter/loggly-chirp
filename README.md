@@ -28,11 +28,11 @@ Loggly Notification : SEVERE : 1369481700
 
 Body:
 id: abc123
-last_state_change: 1329421700
-description:
-event: resolve
-subject: SEVR
-threshold: gt 0 events in 5 minutes (found 0 events)
+last_state_change: 1329421700  
+description:  
+event: resolve  
+subject: SEVR  
+threshold: gt 0 events in 5 minutes (found 0 events)  
 
 Quota
 -------------
